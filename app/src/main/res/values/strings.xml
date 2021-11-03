@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson1_2</string>
+    <string name="CreateText">Tap to generate text</string>
+    <string name="RandomNumber">Tap to get a random number</string>
+</resources>
