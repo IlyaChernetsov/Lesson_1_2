@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun creatingRandomNumbers(view: View){
-        var counter:Int = (0..50).random()
+        var counter:Int = (0..1000).random()
         val setter:TextView = findViewById(R.id.text_Number)
         setter.text = counter.toString()
     }
